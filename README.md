@@ -1,4 +1,4 @@
-### В данном проекте мы проведем анализ данных в датасете, взятого с Kaggle https://www.kaggle.com/datasets/ashutosh598/shoes-price-for-various-brands.
+### В данном проекте я провел анализ данных в датасете, взятого с Kaggle https://www.kaggle.com/datasets/ashutosh598/shoes-price-for-various-brands.
 
 1) EDA (описательные статистики (мю,сигма,квартили…) + графический анализ)
 
